@@ -17,7 +17,14 @@
   
   #coordinates {
     text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f2f2f2f2;
+    padding: 10px;
     font-size: 18px;
     font-weight: bold;
+    font-family: Arial;
   }
   
